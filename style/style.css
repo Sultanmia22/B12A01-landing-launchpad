@@ -41,18 +41,19 @@ header{
 }
 
 /* banner part */
-.banner-text{
-    text-align: center;
-    font-size:65px;
-    font-weight: bold;
-    margin-bottom: 37px;
-}
+
 .banner-section{
     text-align: center;
     width: 905px;
     margin:0 auto;
     padding: 160px 0;
     max-width: 905px;
+}
+.banner-text{
+    text-align: center;
+    font-size:65px;
+    font-weight: bold;
+    margin-bottom: 37px;
 }
 /* main */
 main{
