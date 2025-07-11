@@ -178,3 +178,32 @@ label{
     font-size: 16px;
 }
 
+.footer-part{
+    background-color:#FFFFFF;
+    padding: 105px 0;
+}
+.footer{
+    width: 531px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer-logo{
+    font-size: 100px;
+    color: #4E47FF;
+    font-family:"Inter";
+    margin-bottom: 10px;
+}
+.footer-pera{
+    color: #8987A1;
+    margin-bottom: 20px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+.link a{
+   text-decoration: none;
+   color:#8987A1;
+}
