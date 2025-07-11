@@ -126,6 +126,51 @@ main{
     color: #000;
 }
 
+/* review part */
+.review-part{
+    width: 1140px;
+    margin: 137px auto;
+    text-align: center;
+}
+.review{
+    display: flex;
+    gap: 20px;
+}
+.review-title{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.box{
+    width: 366px;
+    background-color: #FFFFFF;
+    padding: 24px;
+    text-align: left;
+    border-radius: 14px;
+}
+
+.box-heading{
+    font-weight: bold;
+    margin:24px 0 8px 0;
+}
+.box-title{
+    margin-bottom: 24px;
+    font-size: 16px;
+}
+.profile{
+    display: flex;
+    gap: 12px;
+}
+.profile-img{
+    border-radius:50%;
+}
+.profile-img img{
+    border-radius:50%;
+}
+.profile-nich{
+    color: #8987A1;
+}
 /*from-part */
 .from-part{
     width: 1140px;
